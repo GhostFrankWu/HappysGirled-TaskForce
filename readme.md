@@ -45,25 +45,25 @@
 >你已经是个大男孩子了,应该学会画一条干净的眼线，修对干净的眉，喷一些干净又好闻的香水，在这大好的年纪和女生一起抢男人  
 >-- 开心语录于2022年1月20日收录
 
-<img src="images/steal_boyfriend.jpg" alt="steal_boyfriend" style="zoom:60%;" />
+<img src="images/steal_boyfriend.jpg" width="300px" />
 
 ## 开心的目标是什么？
 >做人好累啊，好想变猫娘  
 >-- 开心语录于2022年1月29日收录
 
-<img src="images/become_a_catgirl.jpg" alt="become_a_catgirl" style="zoom:40%;" />
+<img src="images/become_a_catgirl.jpg" width="300px" />
 
 ## 应该怎么称呼开心？
 >叫姐姐  
 >-- 开心语录于2022年1月31日收录
 
-<img src="images/call_me_sister.jpg" alt="call_me_sister" style="zoom:75%;" />
+<img src="images/call_me_sister.jpg" width="300px" />
 
 ## 开心有什么愿望？
 >想变萌妹！  
 >-- 开心语录于2022年2月17日收录
 
-<img src="images/become_a_cute_girl.jpg" alt="become_a_cute_girl" style="zoom:33%;" />
+<img src="images/become_a_cute_girl.jpg" width="400px" />
 
 ## 这个仓库是怎么来的？
 本仓库由一位姿势水平极高的git用户hczhcz启发而来
