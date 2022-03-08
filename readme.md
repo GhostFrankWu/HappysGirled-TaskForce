@@ -65,6 +65,12 @@
 
 <img src="images/become_a_cute_girl.jpg" width="400px" />
 
+## 开心什么时候女装？
+>等frank神仓库有100star, 15个issue的时候  
+>-- 开心语录于2022年3月8日收录
+
+<img src="images/when.jpg" width="260px" />
+
 ## 这个仓库是怎么来的？
 本仓库由一位姿势水平极高的git用户hczhcz启发而来
 
