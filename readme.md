@@ -71,6 +71,11 @@
 
 <img src="images/when.jpg" width="260px" />
 
+>如果我创业成功  
+>-- 开心语录于2022年4月16日收录
+
+![](images/when2.jpg)
+
 ## 这个仓库是怎么来的？
 本仓库由一位姿势水平极高的git用户hczhcz启发而来
 
