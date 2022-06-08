@@ -76,6 +76,14 @@
 
 ![](images/when2.jpg)
 
+## 开心究竟会女装吗？
+
+> 破裙迟早要玩！
+>
+> -- 开心语录于2022年6月8日收录
+
+<img src="images\whether_to_dress.png" style="zoom:130%;" />
+
 ## 这个仓库是怎么来的？
 本仓库由一位姿势水平极高的git用户hczhcz启发而来
 
